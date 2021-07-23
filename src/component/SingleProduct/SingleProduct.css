@@ -1,0 +1,33 @@
+.w-300 {
+  width: 300px;
+}
+
+.single-product {
+  display: flex;
+  justify-content: center;
+  width: 900px;
+  margin: auto;
+  margin-top: 40px;
+}
+
+.single-product > img {
+  width: 300px;
+  height: auto;
+}
+
+.details {
+  margin-left: 30px;
+}
+
+.details > .title {
+  font-size: 20px;
+}
+
+.details > .price {
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
+
+.details > .number-tool {
+  margin-bottom: 20px;
+}

@@ -1,0 +1,25 @@
+.home {
+  background-color: #efefef;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.home_banner > img {
+  margin: 0 5px;
+}
+
+.products_container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 1300px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+@media (max-width: 1199.98px) {
+  .banner {
+    display: none;
+  }
+}

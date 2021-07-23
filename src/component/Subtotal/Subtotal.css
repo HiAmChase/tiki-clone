@@ -1,0 +1,28 @@
+.subtotal {
+  width: 300px;
+  margin-left: 20px;
+}
+
+.total {
+  background-color: #fff;
+  margin-top: 64px;
+  padding: 6px 20px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.primary-btn {
+  width: 100%;
+  background-color: #e74c3c;
+  border: none;
+  color: #fff;
+  height: 40px;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.primary-btn:hover {
+  background-color: rgb(212, 37, 37);
+}
